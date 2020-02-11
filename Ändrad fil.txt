@@ -5,12 +5,13 @@ Slut MasterBranch
 
 
 Start BoUBranch
-
+BoUBranch Commit 1
+BoUBranch Commit 2
 Slut BoUBranch
 
 
 Start MergadBranch
-
+Merge av BoU och Master 2.0
 Slut MergadBranch
 
 
